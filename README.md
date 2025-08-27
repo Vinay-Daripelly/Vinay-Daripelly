@@ -108,9 +108,9 @@
 ---
 
 ## Contact
-- Email: your_email@example.com  
+- Email:  daripellyvinay@gmail.com  
 - LinkedIn: [linkedin.com/in/vinay-daripelly](https://www.linkedin.com/in/vinay-daripelly/)  
-- Resume: RESUME_LINK  
+- Resume: https://drive.google.com/file/d/1tip-LoD-bDbtYfGIsTIpfA9gkMouuSJC/view?usp=sharing
 
 ---
 
