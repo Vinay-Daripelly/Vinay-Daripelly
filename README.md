@@ -6,7 +6,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/u/Vinay_Daripelly/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/vinay_daripelly)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown)](https://www.codechef.com/users/d_vinay_143)
-[![Resume](https://img.shields.io/badge/Resume-PDF-important)](RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Resume-PDF-important)](https://drive.google.com/file/d/1tip-LoD-bDbtYfGIsTIpfA9gkMouuSJC/view?usp=sharing)
 
 ---
 
@@ -75,22 +75,18 @@
 - Stack: React, Firebase (Auth, Firestore), Spring Boot  
 - Links: [Repo](https://github.com/Vinay-Daripelly/FlockshopAi-Wishlist-)  
 
-### 3) Jira Automation Tools – From MoM to Jira Issues
-- What it does: Converts meeting transcripts into summarized MoMs and auto-generates Jira tickets, avoiding duplicate entries.  
-- Stack: Python (Flask), Moonshot API, Jira REST API  
-- Links: [Repo](https://github.com/Vinay-Daripelly/Jira-Automation-Tools)  
 
-### 4) Stock Forecasting – LSTM Model for TCS Price Prediction
+### 3) Stock Forecasting – LSTM Model for TCS Price Prediction
 - What it does: Uses LSTM neural networks in a Jupyter notebook to analyze and forecast TCS stock performance.  
 - Stack: Python, LSTM (TensorFlow/PyTorch), Jupyter Notebook  
 - Links: [Repo](https://github.com/Vinay-Daripelly/Stock-Forecasting)  
 
-### 5) Quick-The-Conference App (Mobile)
+### 4) Quick-The-Conference App (Mobile)
 - What it does: An Android-based conference/meeting app foundation.  
 - Stack: Java (Android)  
 - Links: [Repo](https://github.com/Vinay-Daripelly/Quick-The-Conference-App)  
 
-### 6) ConnectPlus – Student-Alumni Portal (Web)
+### 5) ConnectPlus – Student-Alumni Portal (Web)
 - What it does: A project enabling student-alumni interaction with authentication, profile management, and search features.  
 - Stack: MERN (React, Node.js, Express, MongoDB)  
 - Links: [Repo](https://github.com/Vinay-Daripelly/ConnectPlus)  
