@@ -50,8 +50,8 @@
 
 ## Skills
 
-**Languages**: Java, Kotlin, JavaScript/TypeScript, Python, SQL  
-**Web (MERN)**: React, Redux/Context, Node.js, Express, MongoDB  
+**Languages**: C++,Java,JavaScript/TypeScript, Python, SQL  
+**Web (MERN)**: ReactJs, Redux/Context, Node.js, ExpressJs, MongoDB  
 **Mobile**: Android SDK (Java/Kotlin),  Firebase Auth/Firestore/Storage, FCM  
 **Backend**: Spring Boot, REST APIs, JWT/Auth
 **Cloud/DevOps**: Firebase, GitHub Actions (CI/CD), Vercel/Render
