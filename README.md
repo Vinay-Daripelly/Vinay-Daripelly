@@ -6,7 +6,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/u/Vinay_Daripelly/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/vinay_daripelly)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown)](https://www.codechef.com/users/d_vinay_143)
-[![Resume](https://img.shields.io/badge/Resume-PDF-important)](https://drive.google.com/file/d/1tip-LoD-bDbtYfGIsTIpfA9gkMouuSJC/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1BbfQ4ygyRcqgXpJJMCoH4Zxnnd_mzsPA/view?usp=sharing)
 
 ---
 
