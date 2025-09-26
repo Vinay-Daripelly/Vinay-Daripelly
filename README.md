@@ -33,11 +33,9 @@
 
 ---
 
-## Current Work
-- Cloud-based chatbot presentation and demo.  
+## Current Work  
 - AI-based plastic waste classification & upcycling app (Android + Gemini API).  
 - FlockShop – collaborative wishlist management app.  
-- Internship project at Vedaz – React Native app with Android 15 incoming call notifications using FCM and a native Java/Kotlin module.  
 - Rubik’s Cube toolset – camera scanning, editor UI, solvers (custom + Kociemba).  
 
 ---
@@ -46,7 +44,7 @@
 - Hack4SDG-2024 Finalist – built a drone multispectral analysis app for farmers.  
 - Team lead on Connect+ (student-alumni portal), University Management System (mobile), and Video Conferencing App (mobile).  
 - Focus on security, real-time updates, and developer-friendly integrations.  
-- Proficient with data storytelling (Power BI) and testing (JUnit, Mockito).  
+- Proficient with  testing (JUnit, Mockito,Postman).  
 
 ---
 
@@ -54,10 +52,10 @@
 
 **Languages**: Java, Kotlin, JavaScript/TypeScript, Python, SQL  
 **Web (MERN)**: React, Redux/Context, Node.js, Express, MongoDB  
-**Mobile**: Android SDK (Java/Kotlin), React Native, Firebase Auth/Firestore/Storage, FCM  
-**Backend**: Spring Boot, REST APIs, JWT/Auth, WebSockets  
-**Cloud/DevOps**: Firebase, GitHub Actions (CI/CD), Vercel/Render/Netlify  
-**Data/ML**: Computer Vision (OpenCV basics), LLMs (Gemini API), Power BI  
+**Mobile**: Android SDK (Java/Kotlin),  Firebase Auth/Firestore/Storage, FCM  
+**Backend**: Spring Boot, REST APIs, JWT/Auth
+**Cloud/DevOps**: Firebase, GitHub Actions (CI/CD), Vercel/Render
+**Data/ML**: LLMs (Gemini API), Power BI  
 **Testing**: JUnit, Mockito, Postman  
 **Practices**: Clean Architecture, SOLID, Agile, documentation-driven development  
 
@@ -129,4 +127,4 @@
 
 ---
 
-_Last updated: Aug 27, 2025_
+_Last updated: Sep 26, 2025_
