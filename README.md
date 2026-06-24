@@ -73,15 +73,9 @@ JUnit • Mockito • Postman
 AI-powered Android application that classifies plastic resin types using a Vision Transformer model and generates personalized upcycling recommendations through Gemini AI.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/home.jpg" width="250">
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/detection.jpg" width="300">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/suggestions.png" width="250">
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/dashboard.png" width="350">
+  <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/detection.jpg" width="350">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/dashboard.png" width="350">
 </p>
 
 ### Highlights
