@@ -74,11 +74,13 @@ AI-powered Android application that classifies plastic resin types using a Visio
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/home.jpg" width="250">
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/detection.jpg" width="300">
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/suggestions.png" width="250">
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Vinay-Daripelly/Eco-Craft/master/screenshots/dashboard.png" width="350">
 </p>
 
